@@ -1,5 +1,5 @@
 {
-	"name": "@almetoff/svelte-treeview",
+	"name": "svelte-awesome-treeview",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
